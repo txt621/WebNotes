@@ -2,31 +2,7 @@
 
 ## 第一章 git 介绍
 
-### 第一节 git 的作用
-
-- 项目版本控制
-- 项目多人协作
-- 项目管理
-- 获取和分享开源项目 
-
-### 第二节 git的安装
-
-
-> https://git-scm.com/   // 官网下载
->
-
-
-
-### 第三节 git的基本配置
-
-> 因为Git是分布式版本控制系统，所以，每台电脑必须自报家门，包括开发者的名字与Email地址， 否则版本库不知道是哪位开发者贡献的代码。
-
-```shell
-$ git config --global user.name "Your Name"           // 配置用户名
-$ git config --global user.email "email@example.com"  // 配置邮箱 
-$ git config --global --list  // 查看当前git的配置信息 
-```
-
+1908到此一游。
 
 
 ## 第二章 提交代码
